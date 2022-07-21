@@ -1,6 +1,6 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
-  "author": "CKSource",
+  "name": "@virginiadewangga/ckeditor5-build-classic",
+  "author": "virginiadewangga",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
